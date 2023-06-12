@@ -1,38 +1,36 @@
 {
-  "users":
-  {
-    "id": 1,
-    "firstname": "Burak",
-    "lastname": "Dogan",
-    "email": "burak.dogan@hak-bregenz.at",
-    "password": "nohash",
-    "location": "Fliederweg 1"
-  },
-  {
-    "id": 2,
-    "firstname": "Lin",
-    "lastname": "Dan",
-    "email": "lin.dan@badminton.at",
-    "password": "damnbaby",
-    "location": "Wuhan"
-  },
-  {
-    "id": 3,
-    "firstname": "Christian",
-    "lastname": "Natter",
-    "email": "chris.nat@wolfurt.at",
-    "password": "wolfurtlovernr1",
-    "location": "Gartenstraße 2"
-  },
-  {
-    "id": 4,
-    "firstname": "Billy",
-    "lastname": "Joel",
-    "email": "billy.joel@sony.at",
-    "password": "password123",
-    "location": "Sony-Street 4d"
-  }
-    
-
+    "users": [
+        {
+            "id": 1,
+            "firstname": "Burak",
+            "lastname": "Dogan",
+            "email": "burak.dogan@hak-bregenz.at",
+            "password": "nohash",
+            "location": "Fliederweg 1"
+        },
+        {
+            "id": 2,
+            "firstname": "Lin",
+            "lastname": "Dan",
+            "email": "lin.dan@badminton.at",
+            "password": "damnbaby",
+            "location": "Wuhan"
+        },
+        {
+            "id": 3,
+            "firstname": "Christian",
+            "lastname": "Natter",
+            "email": "chris.nat@wolfurt.at",
+            "password": "wolfurtlovernr1",
+            "location": "Gartenstraße 2"
+        },
+        {
+            "id": 4,
+            "firstname": "Billy",
+            "lastname": "Joel",
+            "email": "billy.joel@sony.at",
+            "password": "password123",
+            "location": "Sony-Street 4d"
+        }
+    ]
 }
-
