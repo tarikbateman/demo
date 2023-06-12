@@ -1,5 +1,5 @@
 {
-  "users":[
+  "users":
   {
     "id": 1,
     "firstname": "Burak",
@@ -32,7 +32,7 @@
     "password": "password123",
     "location": "Sony-Street 4d"
   }
-    ]
+    
 
 }
 
