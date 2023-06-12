@@ -32,5 +32,17 @@
             "password": "password123",
             "location": "Sony-Street 4d"
         }
+    ],
+    "admin":[
+        {
+        "id":1,
+        "email": "asdasd",
+        "password": "asdasd"
+        },
+        {
+        "id":2,
+        "email": "testtest",
+        "password": "test"
+        }
     ]
 }
